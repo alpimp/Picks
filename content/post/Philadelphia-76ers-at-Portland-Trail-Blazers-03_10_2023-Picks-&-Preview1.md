@@ -1,6 +1,6 @@
 ---
 title: "Philadelphia 76ers at Portland Trail Blazers 03/10/2023 Picks & Preview1"
-description: Describes common Mainroad theme configuration parameters that can be adjusted via config file or via Front
+description: 
 thumbnail:
   src: "img/placeholder.png"
   visibility:

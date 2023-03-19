@@ -1,15 +1,12 @@
 ---
-title: Customization
+title: Betting explained
 description: 
 lead: 
 date: 2022-01-24T14:00:00.000Z
-thumbnail:
-  src: "img/placeholder.png"
-  visibility:
-    - list
+tags:
 authorbox: false
 sidebar: false
 pager: false
-weight: 2
+weight: 1
 menu: main
 ---

@@ -1,5 +1,5 @@
 {
-  "name": "mainroad",
+  "name": "mydailypickz",
   "version": "1.0.0",
   "description": "Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme",
   "license": "GPL-2.0",
@@ -24,13 +24,6 @@
     "fix:js": "eslint static/js/*.js --fix",
     "fix": "npm run fix:prefixes && npm run fix:css && npm run fix:js",
     "test": "npm run lint"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Vimux/Mainroad.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Vimux/Mainroad/issues"
-  },
-  "homepage": "https://github.com/Vimux/Mainroad"
+  }
+
 }
