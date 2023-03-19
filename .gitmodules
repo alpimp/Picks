@@ -1,0 +1,3 @@
+[submodule "themes/mydailypickz"]
+	path = themes/mydailypickz
+	url = https://github.com/alpimp/theme-picks.git
