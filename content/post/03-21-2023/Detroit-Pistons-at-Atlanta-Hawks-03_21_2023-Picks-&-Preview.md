@@ -4,7 +4,7 @@ date: 2023-03-21T21:38:36+03:00
 thumbnail:  "hawks.jpg"
 ---
 The Detroit Pistons and Atlanta Hawks meet Tuesday in NBA action at the State Farm Arena.
-<!--more-->{{< tweet user="DetroitPistons" id="1638178782334038017" >}}
+<!--more-->{{< tweet user="DetroitPistons" id="1637912042811150338" >}}
 
 ## Injuries:
 
