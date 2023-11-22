@@ -85,7 +85,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [[Params.widgets.social.custom]]
   title = "My Home Page"
-  url = "https://example.com"
+  url = "http://spordz.kukushonkova.repl.co"
 
 [Params.widgets.search]
   url = "https://google.com/search"
